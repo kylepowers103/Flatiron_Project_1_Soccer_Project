@@ -18,6 +18,7 @@ import requests
 import json
 
 # scatter tabs variables start here:
+# Distance covered,possession time,pass accuracy,goals,shots,
 # distance_covered v other stats
 avg_goals_and_distances= average_dc_vs_goals_per_game()
 avg_pa_and_distances = average_dc_vs_pa_per_game()
